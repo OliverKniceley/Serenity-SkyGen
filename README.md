@@ -11,8 +11,8 @@ Eveeything here is free to use and download any way you like.
 
 ### 📦 Downloads
 
-- 👉 [Download Behavior Pack (BEH)](https://github.com/OliverKniceley/Serenity-SkyGen/raw/main/SerenitySkyGen_BEH.mcpack)
-- 🎨 [Download Resource Pack (RES)](https://github.com/OliverKniceley/Serenity-SkyGen/raw/main/SerenitySkyGen_RES.mcpack)
+- 👉 [Download Behavior Pack (BEH)](https://raw.githubusercontent.com/OliverKniceley/Serenity-SkyGen/main/SerenitySkyGen_BEH.mcpack)
+- 🎨 [Download Resource Pack (RES)](https://raw.githubusercontent.com/OliverKniceley/Serenity-SkyGen/main/SerenitySkyGen_RES.mcpack)
 
 ---
 
