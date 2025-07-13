@@ -23,3 +23,4 @@ Eveeything here is free to use and download any way you like.
 1. Click both download links above (`.mcpack` files).
 2. Open the downloaded `.mcpack` files — Minecraft will launch and import them automatically.
 3. Create or edit a world and **enable both packs** (Behavior and Resource) under "Active Packs".
+4. Make sure all creator features are enabled.
