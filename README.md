@@ -6,3 +6,20 @@ This is the official repo of Serenity SkyGen, This is an open source project tha
 Eveeything here is free to use and download any way you like.
 
 ---
+
+# 🔽 How to Download & Install Serenity SkyGen
+
+### 📦 Downloads
+
+- 👉 [Download Behavior Pack (BEH)](https://github.com/OliverKniceley/Serenity-SkyGen/raw/main/SerenitySkyGen_BEH.mcpack)
+- 🎨 [Download Resource Pack (RES)](https://github.com/OliverKniceley/Serenity-SkyGen/raw/main/SerenitySkyGen_RES.mcpack)
+
+---
+
+### 🧭 Installation Instructions (Minecraft Bedrock Edition)
+
+#### 📂 On Windows:
+
+1. Click both download links above (`.mcpack` files).
+2. Open the downloaded `.mcpack` files — Minecraft will launch and import them automatically.
+3. Create or edit a world and **enable both packs** (Behavior and Resource) under "Active Packs".
